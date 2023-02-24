@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="623" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:pt-BR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Mon Feb 20 16:06:04 2023
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">edsampa</m>
+<m key="dc.date">Mon Feb 20 16:06:04 2023
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="2" edit-time="2658" last-saved="1676919964" uid="aa83ccf2-ace9-11ed-8053-a538bfb108e9">
+<version id="1" started="1676438088" uid="aaf7f888-acef-11ed-8053-a538bfb108e9" auto="0" top-xid="623"/>
+<version id="2" started="1676919964" uid="9f4430b8-b151-11ed-8c56-f4141a6a97d9" auto="0" top-xid="623"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="339" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="340"><c></c></p>
+<p style="Normal" xid="341" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="342" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="343" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="344" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="345" props="text-align:left; dom-dir:ltr">#EXTM3U<c></c></p>
+<p style="Normal" xid="346" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Globo SP<c></c></p>
+<p style="Normal" xid="347" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/2.m3u8<c></c></p>
+<p style="Normal" xid="348" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Globo RJ<c></c></p>
+<p style="Normal" xid="349" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/567.m3u8<c></c></p>
+<p style="Normal" xid="350" props="text-align:left; dom-dir:ltr">#EXTINF:-1,RBS TV Porto Alegre<c></c></p>
+<p style="Normal" xid="351" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/576.m3u8<c></c></p>
+<p style="Normal" xid="352" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Globo Internacional<c></c></p>
+<p style="Normal" xid="353" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/603.m3u8<c></c></p>
+<p style="Normal" xid="354" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Record<c></c></p>
+<p style="Normal" xid="355" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/6.m3u8<c></c></p>
+<p style="Normal" xid="356" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Band<c></c></p>
+<p style="Normal" xid="357" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/5.m3u8<c></c></p>
+<p style="Normal" xid="358" props="text-align:left; dom-dir:ltr">#EXTINF:-1,SBT<c></c></p>
+<p style="Normal" xid="359" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/3.m3u8<c></c></p>
+<p style="Normal" xid="360" props="text-align:left; dom-dir:ltr">#EXTINF:-1,RedeTV!<c></c></p>
+<p style="Normal" xid="361" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/4.m3u8<c></c></p>
+<p style="Normal" xid="362" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TV Cultura<c></c></p>
+<p style="Normal" xid="363" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/1.m3u8<c></c></p>
+<p style="Normal" xid="364" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Canal Futura<c></c></p>
+<p style="Normal" xid="365" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/7.m3u8<c></c></p>
+<p style="Normal" xid="366" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Rede Brasil<c></c></p>
+<p style="Normal" xid="367" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/577.m3u8<c></c></p>
+<p style="Normal" xid="368" props="text-align:left; dom-dir:ltr">#EXTINF:-1,RIT<c></c></p>
+<p style="Normal" xid="369" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/579.m3u8<c></c></p>
+<p style="Normal" xid="370" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Canal Rural<c></c></p>
+<p style="Normal" xid="371" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/598.m3u8<c></c></p>
+<p style="Normal" xid="372" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Curta!<c></c></p>
+<p style="Normal" xid="373" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/562.m3u8<c></c></p>
+<p style="Normal" xid="374" props="text-align:left; dom-dir:ltr">#EXTINF:-1,NBR<c></c></p>
+<p style="Normal" xid="375" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/572.m3u8<c></c></p>
+<p style="Normal" xid="376" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Aparecida<c></c></p>
+<p style="Normal" xid="377" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/559.m3u8<c></c></p>
+<p style="Normal" xid="378" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Rede Vida<c></c></p>
+<p style="Normal" xid="379" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/578.m3u8<c></c></p>
+<p style="Normal" xid="380" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Canção Nova<c></c></p>
+<p style="Normal" xid="381" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/561.m3u8<c></c></p>
+<p style="Normal" xid="382" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Novo Tempo<c></c></p>
+<p style="Normal" xid="383" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/105.m3u8<c></c></p>
+<p style="Normal" xid="384" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Telecine Action<c></c></p>
+<p style="Normal" xid="385" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/9.m3u8<c></c></p>
+<p style="Normal" xid="386" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Telecine Premium<c></c></p>
+<p style="Normal" xid="387" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/8.m3u8<c></c></p>
+<p style="Normal" xid="388" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Telecine Touch<c></c></p>
+<p style="Normal" xid="389" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/12.m3u8<c></c></p>
+<p style="Normal" xid="390" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Telecine Fun<c></c></p>
+<p style="Normal" xid="391" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/10.m3u8<c></c></p>
+<p style="Normal" xid="392" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Telecine Pipoca<c></c></p>
+<p style="Normal" xid="393" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/11.m3u8<c></c></p>
+<p style="Normal" xid="394" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Telecine Cult<c></c></p>
+<p style="Normal" xid="395" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/13.m3u8<c></c></p>
+<p style="Normal" xid="396" props="text-align:left; dom-dir:ltr">#EXTINF:-1,HBO<c></c></p>
+<p style="Normal" xid="397" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/14.m3u8<c></c></p>
+<p style="Normal" xid="398" props="text-align:left; dom-dir:ltr">#EXTINF:-1,HBO 2<c></c></p>
+<p style="Normal" xid="399" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/15.m3u8<c></c></p>
+<p style="Normal" xid="400" props="text-align:left; dom-dir:ltr">#EXTINF:-1,HBO Plus<c></c></p>
+<p style="Normal" xid="401" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/18.m3u8<c></c></p>
+<p style="Normal" xid="402" props="text-align:left; dom-dir:ltr">#EXTINF:-1,HBO Signature<c></c></p>
+<p style="Normal" xid="403" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/16.m3u8<c></c></p>
+<p style="Normal" xid="404" props="text-align:left; dom-dir:ltr">#EXTINF:-1,HBO Family<c></c></p>
+<p style="Normal" xid="405" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/17.m3u8<c></c></p>
+<p style="Normal" xid="406" props="text-align:left; dom-dir:ltr">#EXTINF:-1,HBO Plus*e<c></c></p>
+<p style="Normal" xid="407" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/568.m3u8<c></c></p>
+<p style="Normal" xid="408" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Universal<c></c></p>
+<p style="Normal" xid="409" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/22.m3u8<c></c></p>
+<p style="Normal" xid="410" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Mais GloboSat<c></c></p>
+<p style="Normal" xid="411" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/108.m3u8<c></c></p>
+<p style="Normal" xid="412" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TNT Séries<c></c></p>
+<p style="Normal" xid="413" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/101.m3u8<c></c></p>
+<p style="Normal" xid="414" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TNT<c></c></p>
+<p style="Normal" xid="415" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/30.m3u8<c></c></p>
+<p style="Normal" xid="416" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TCM<c></c></p>
+<p style="Normal" xid="417" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/35.m3u8<c></c></p>
+<p style="Normal" xid="418" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Studio Universal<c></c></p>
+<p style="Normal" xid="419" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/32.m3u8<c></c></p>
+<p style="Normal" xid="420" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Max Prime<c></c></p>
+<p style="Normal" xid="421" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/24.m3u8<c></c></p>
+<p style="Normal" xid="422" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Max<c></c></p>
+<p style="Normal" xid="423" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/23.m3u8<c></c></p>
+<p style="Normal" xid="424" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TBS<c></c></p>
+<p style="Normal" xid="425" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/33.m3u8<c></c></p>
+<p style="Normal" xid="426" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Warner<c></c></p>
+<p style="Normal" xid="427" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/26.m3u8<c></c></p>
+<p style="Normal" xid="428" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Paramount Channel<c></c></p>
+<p style="Normal" xid="429" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/34.m3u8<c></c></p>
+<p style="Normal" xid="430" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Fox<c></c></p>
+<p style="Normal" xid="431" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/20.m3u8<c></c></p>
+<p style="Normal" xid="432" props="text-align:left; dom-dir:ltr">#EXTINF:-1,FOX Action<c></c></p>
+<p style="Normal" xid="433" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/595.m3u8<c></c></p>
+<p style="Normal" xid="434" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Fox 1<c></c></p>
+<p style="Normal" xid="435" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/600.m3u8<c></c></p>
+<p style="Normal" xid="436" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Space<c></c></p>
+<p style="Normal" xid="437" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/21.m3u8<c></c></p>
+<p style="Normal" xid="438" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Sony<c></c></p>
+<p style="Normal" xid="439" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/28.m3u8<c></c></p>
+<p style="Normal" xid="440" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Megapix<c></c></p>
+<p style="Normal" xid="441" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/19.m3u8<c></c></p>
+<p style="Normal" xid="442" props="text-align:left; dom-dir:ltr">#EXTINF:-1,FX<c></c></p>
+<p style="Normal" xid="443" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/27.m3u8<c></c></p>
+<p style="Normal" xid="444" props="text-align:left; dom-dir:ltr">#EXTINF:-1,AXN<c></c></p>
+<p style="Normal" xid="445" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/29.m3u8<c></c></p>
+<p style="Normal" xid="446" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Max Up<c></c></p>
+<p style="Normal" xid="447" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/25.m3u8<c></c></p>
+<p style="Normal" xid="448" props="text-align:left; dom-dir:ltr">#EXTINF:-1,I sat<c></c></p>
+<p style="Normal" xid="449" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/109.m3u8<c></c></p>
+<p style="Normal" xid="450" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Cinemax<c></c></p>
+<p style="Normal" xid="451" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/31.m3u8<c></c></p>
+<p style="Normal" xid="452" props="text-align:left; dom-dir:ltr">#EXTINF:-1,SporTV<c></c></p>
+<p style="Normal" xid="453" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/55.m3u8<c></c></p>
+<p style="Normal" xid="454" props="text-align:left; dom-dir:ltr">#EXTINF:-1,SporTV 2<c></c></p>
+<p style="Normal" xid="455" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/56.m3u8<c></c></p>
+<p style="Normal" xid="456" props="text-align:left; dom-dir:ltr">#EXTINF:-1,SporTV 3<c></c></p>
+<p style="Normal" xid="457" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/57.m3u8<c></c></p>
+<p style="Normal" xid="458" props="text-align:left; dom-dir:ltr">#EXTINF:-1,SporTV 2 Alternativo<c></c></p>
+<p style="Normal" xid="459" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/580.m3u8<c></c></p>
+<p style="Normal" xid="460" props="text-align:left; dom-dir:ltr">#EXTINF:-1,SporTV Alternativo<c></c></p>
+<p style="Normal" xid="461" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/581.m3u8<c></c></p>
+<p style="Normal" xid="462" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Canal Brasil<c></c></p>
+<p style="Normal" xid="463" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/112.m3u8<c></c></p>
+<p style="Normal" xid="464" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Fox Sports<c></c></p>
+<p style="Normal" xid="465" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/63.m3u8<c></c></p>
+<p style="Normal" xid="466" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Fox Sports 2<c></c></p>
+<p style="Normal" xid="467" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/64.m3u8<c></c></p>
+<p style="Normal" xid="468" props="text-align:left; dom-dir:ltr">#EXTINF:-1,ESPN<c></c></p>
+<p style="Normal" xid="469" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/59.m3u8<c></c></p>
+<p style="Normal" xid="470" props="text-align:left; dom-dir:ltr">#EXTINF:-1,ESPN+<c></c></p>
+<p style="Normal" xid="471" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/60.m3u8<c></c></p>
+<p style="Normal" xid="472" props="text-align:left; dom-dir:ltr">#EXTINF:-1,ESPN Brasil<c></c></p>
+<p style="Normal" xid="473" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/61.m3u8<c></c></p>
+<p style="Normal" xid="474" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Band Sports<c></c></p>
+<p style="Normal" xid="475" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/58.m3u8<c></c></p>
+<p style="Normal" xid="476" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Ei Maxx<c></c></p>
+<p style="Normal" xid="477" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/65.m3u8<c></c></p>
+<p style="Normal" xid="478" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Ei Maxx 2<c></c></p>
+<p style="Normal" xid="479" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/66.m3u8<c></c></p>
+<p style="Normal" xid="480" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Esporte Interativo<c></c></p>
+<p style="Normal" xid="481" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/67.m3u8<c></c></p>
+<p style="Normal" xid="482" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Combate<c></c></p>
+<p style="Normal" xid="483" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/80.m3u8<c></c></p>
+<p style="Normal" xid="484" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere Clubes<c></c></p>
+<p style="Normal" xid="485" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/71.m3u8<c></c></p>
+<p style="Normal" xid="486" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 9<c></c></p>
+<p style="Normal" xid="487" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/79.m3u8<c></c></p>
+<p style="Normal" xid="488" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 8<c></c></p>
+<p style="Normal" xid="489" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/78.m3u8<c></c></p>
+<p style="Normal" xid="490" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 7<c></c></p>
+<p style="Normal" xid="491" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/77.m3u8<c></c></p>
+<p style="Normal" xid="492" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 6<c></c></p>
+<p style="Normal" xid="493" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/76.m3u8<c></c></p>
+<p style="Normal" xid="494" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 5<c></c></p>
+<p style="Normal" xid="495" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/75.m3u8<c></c></p>
+<p style="Normal" xid="496" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 4<c></c></p>
+<p style="Normal" xid="497" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/74.m3u8<c></c></p>
+<p style="Normal" xid="498" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 3<c></c></p>
+<p style="Normal" xid="499" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/73.m3u8<c></c></p>
+<p style="Normal" xid="500" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Premiere 2<c></c></p>
+<p style="Normal" xid="501" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/72.m3u8<c></c></p>
+<p style="Normal" xid="502" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Off<c></c></p>
+<p style="Normal" xid="503" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/62.m3u8<c></c></p>
+<p style="Normal" xid="504" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Woohoo<c></c></p>
+<p style="Normal" xid="505" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/96.m3u8<c></c></p>
+<p style="Normal" xid="506" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Bis<c></c></p>
+<p style="Normal" xid="507" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/37.m3u8<c></c></p>
+<p style="Normal" xid="508" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Multishow<c></c></p>
+<p style="Normal" xid="509" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/39.m3u8<c></c></p>
+<p style="Normal" xid="510" props="text-align:left; dom-dir:ltr">#EXTINF:-1,MTV<c></c></p>
+<p style="Normal" xid="511" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/38.m3u8<c></c></p>
+<p style="Normal" xid="512" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Music Box Brasil<c></c></p>
+<p style="Normal" xid="513" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/106.m3u8<c></c></p>
+<p style="Normal" xid="514" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Lifetime<c></c></p>
+<p style="Normal" xid="515" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/570.m3u8<c></c></p>
+<p style="Normal" xid="516" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Play TV<c></c></p>
+<p style="Normal" xid="517" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/573.m3u8<c></c></p>
+<p style="Normal" xid="518" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Vh1 Mega hits<c></c></p>
+<p style="Normal" xid="519" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/98.m3u8<c></c></p>
+<p style="Normal" xid="520" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TLC<c></c></p>
+<p style="Normal" xid="521" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/44.m3u8<c></c></p>
+<p style="Normal" xid="522" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Viva<c></c></p>
+<p style="Normal" xid="523" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/36.m3u8<c></c></p>
+<p style="Normal" xid="524" props="text-align:left; dom-dir:ltr">#EXTINF:-1,GNT<c></c></p>
+<p style="Normal" xid="525" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/40.m3u8<c></c></p>
+<p style="Normal" xid="526" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Fox Life<c></c></p>
+<p style="Normal" xid="527" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/43.m3u8<c></c></p>
+<p style="Normal" xid="528" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Sic Internacional<c></c></p>
+<p style="Normal" xid="529" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/103.m3u8<c></c></p>
+<p style="Normal" xid="530" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Comedy Central<c></c></p>
+<p style="Normal" xid="531" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/111.m3u8<c></c></p>
+<p style="Normal" xid="532" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Arte 1<c></c></p>
+<p style="Normal" xid="533" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/113.m3u8<c></c></p>
+<p style="Normal" xid="534" props="text-align:left; dom-dir:ltr">#EXTINF:-1,TruTV<c></c></p>
+<p style="Normal" xid="535" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/100.m3u8<c></c></p>
+<p style="Normal" xid="536" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Tooncast<c></c></p>
+<p style="Normal" xid="537" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/97.m3u8<c></c></p>
+<p style="Normal" xid="538" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Syfy<c></c></p>
+<p style="Normal" xid="539" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/102.m3u8<c></c></p>
+<p style="Normal" xid="540" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Disney XD<c></c></p>
+<p style="Normal" xid="541" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/85.m3u8<c></c></p>
+<p style="Normal" xid="542" props="text-align:left; dom-dir:ltr">##EXTINF:-1,Disney Junior<c></c></p>
+<p style="Normal" xid="543" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/84.m3u8<c></c></p>
+<p style="Normal" xid="544" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Disney Channel<c></c></p>
+<p style="Normal" xid="545" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/86.m3u8<c></c></p>
+<p style="Normal" xid="546" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Nick Jr.<c></c></p>
+<p style="Normal" xid="547" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/87.m3u8<c></c></p>
+<p style="Normal" xid="548" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Nickelodeon<c></c></p>
+<p style="Normal" xid="549" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/83.m3u8<c></c></p>
+<p style="Normal" xid="550" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Discovery Kids<c></c></p>
+<p style="Normal" xid="551" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/88.m3u8<c></c></p>
+<p style="Normal" xid="552" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Gloob<c></c></p>
+<p style="Normal" xid="553" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/81.m3u8<c></c></p>
+<p style="Normal" xid="554" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Boomerang<c></c></p>
+<p style="Normal" xid="555" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/89.m3u8<c></c></p>
+<p style="Normal" xid="556" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Cartoon Network<c></c></p>
+<p style="Normal" xid="557" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/82.m3u8<c></c></p>
+<p style="Normal" xid="558" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Nat Geo<c></c></p>
+<p style="Normal" xid="559" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/45.m3u8<c></c></p>
+<p style="Normal" xid="560" props="text-align:left; dom-dir:ltr">#EXTINF:-1,NatGeo Wild<c></c></p>
+<p style="Normal" xid="561" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/597.m3u8<c></c></p>
+<p style="Normal" xid="562" props="text-align:left; dom-dir:ltr">#EXTINF:-1,History<c></c></p>
+<p style="Normal" xid="563" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/52.m3u8<c></c></p>
+<p style="Normal" xid="564" props="text-align:left; dom-dir:ltr">#EXTINF:-1,H2<c></c></p>
+<p style="Normal" xid="565" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/53.m3u8<c></c></p>
+<p style="Normal" xid="566" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Animal Planet<c></c></p>
+<p style="Normal" xid="567" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/51.m3u8<c></c></p>
+<p style="Normal" xid="568" props="text-align:left; dom-dir:ltr">#EXTINF:-1,A&amp;E<c></c></p>
+<p style="Normal" xid="569" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/41.m3u8<c></c></p>
+<p style="Normal" xid="570" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Discovery Channel<c></c></p>
+<p style="Normal" xid="571" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/46.m3u8<c></c></p>
+<p style="Normal" xid="572" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Discovery Turbo<c></c></p>
+<p style="Normal" xid="573" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/49.m3u8<c></c></p>
+<p style="Normal" xid="574" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Discovery Science<c></c></p>
+<p style="Normal" xid="575" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/54.m3u8<c></c></p>
+<p style="Normal" xid="576" props="text-align:left; dom-dir:ltr">#EXTINF:-1,ID - Investigação Discovery<c></c></p>
+<p style="Normal" xid="577" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/47.m3u8<c></c></p>
+<p style="Normal" xid="578" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Discovery Home &amp; Health<c></c></p>
+<p style="Normal" xid="579" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/48.m3u8<c></c></p>
+<p style="Normal" xid="580" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Discovery Civilization<c></c></p>
+<p style="Normal" xid="581" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/50.m3u8<c></c></p>
+<p style="Normal" xid="582" props="text-align:left; dom-dir:ltr">#EXTINF:-1,E!<c></c></p>
+<p style="Normal" xid="583" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/42.m3u8<c></c></p>
+<p style="Normal" xid="584" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Fish TV<c></c></p>
+<p style="Normal" xid="585" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/110.m3u8<c></c></p>
+<p style="Normal" xid="586" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Record News<c></c></p>
+<p style="Normal" xid="587" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/69.m3u8<c></c></p>
+<p style="Normal" xid="588" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Band News<c></c></p>
+<p style="Normal" xid="589" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/70.m3u8<c></c></p>
+<p style="Normal" xid="590" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Globo News<c></c></p>
+<p style="Normal" xid="591" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/68.m3u8<c></c></p>
+<p style="Normal" xid="592" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Band Alternativo<c></c></p>
+<p style="Normal" xid="593" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/560.m3u8<c></c></p>
+<p style="Normal" xid="594" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Food Network<c></c></p>
+<p style="Normal" xid="595" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/563.m3u8<c></c></p>
+<p style="Normal" xid="596" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Prime Box Brasil<c></c></p>
+<p style="Normal" xid="597" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/104.m3u8<c></c></p>
+<p style="Normal" xid="598" props="text-align:left; dom-dir:ltr">#EXTINF:-1,RBI<c></c></p>
+<p style="Normal" xid="599" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/575.m3u8<c></c></p>
+<p style="Normal" xid="600" props="text-align:left; dom-dir:ltr">#EXTINF:-1,BBB<c></c></p>
+<p style="Normal" xid="601" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/591.m3u8<c></c></p>
+<p style="Normal" xid="602" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Playboy TV<c></c></p>
+<p style="Normal" xid="603" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/90.m3u8<c></c></p>
+<p style="Normal" xid="604" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Sexy Hot<c></c></p>
+<p style="Normal" xid="605" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/91.m3u8<c></c></p>
+<p style="Normal" xid="606" props="text-align:left; dom-dir:ltr">#EXTINF:-1,Sextreme<c></c></p>
+<p style="Normal" xid="607" props="text-align:left; dom-dir:ltr">http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/92.m3u8<c></c></p>
+<p style="Normal" xid="608" props="text-align:left; dom-dir:ltr">@ROBERTO369<c></c></p>
+<p style="Normal" xid="609" props="text-align:left; dom-dir:ltr">ROBERTO369 commented May 29, 2019<c></c></p>
+<p style="Normal" xid="610" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="611" props="text-align:left; dom-dir:ltr">https://gist.github.com/ezyn1984/9971db4841e63b7195ef021d834c4cb5<c></c></p>
+<p style="Normal" xid="612" props="text-align:left; dom-dir:ltr">@24001234<c></c></p>
+<p style="Normal" xid="613" props="text-align:left; dom-dir:ltr">24001234 commented Jul 27, 2022<c></c></p>
+<p style="Normal" xid="614" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="615" props="text-align:left; dom-dir:ltr">Fox<c></c></p>
+<p style="Normal" xid="616" props="text-align:left; dom-dir:ltr">@24001234<c></c></p>
+<p style="Normal" xid="617" props="text-align:left; dom-dir:ltr">24001234 commented Jul 27, 2022<c></c></p>
+<p style="Normal" xid="618" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="619" props="text-align:left; dom-dir:ltr">Fox](http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/20.m3u8)<c></c></p>
+<p style="Normal" xid="620" props="text-align:left; dom-dir:ltr">@24001234<c></c></p>
+<p style="Normal" xid="621" props="text-align:left; dom-dir:ltr">24001234 commented Jul 27, 2022<c></c></p>
+<p style="Normal" xid="622" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="623" props="text-align:left; dom-dir:ltr"><c></c></p>
+</section>
+</abiword>
